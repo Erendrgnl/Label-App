@@ -13,7 +13,7 @@ must be followed in order
 
 
 ## Key Map
-S-> Save
+S-> Save\n
 0-> Label 0
 1-> Label 1
 D-> Next frame
