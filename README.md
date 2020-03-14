@@ -13,10 +13,10 @@ must be followed in order
 
 
 ## Key Map
-S-> Save\n
-0-> Label 0
-1-> Label 1
-D-> Next frame
+###### S-> Save
+###### 0-> Label 0
+###### 1-> Label 1
+###### D-> Next frame
 
 ## Notes
 The requirements.txt file should list all Python libraries that your notebooks depend on, and they will be installed using:
