@@ -6,10 +6,10 @@ GUI to binary label 1D road line signal
 run LabelApp.py
 
 must be followed in order
-1)Select file
-2)Draw line
-3)Label
-4)Import CSV
+###### 1)Select file
+###### 2)Draw line
+###### 3)Label
+###### 4)Import CSV
 
 
 ## Key Map
